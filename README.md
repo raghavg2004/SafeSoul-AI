@@ -1,4 +1,4 @@
-# 🧠 SafeSoul AI – Mental Health Support Chatbot
+# <img src="SafeSoul-AI-main/icon.png" alt="SafeSoul AI logo" width="32" style="vertical-align:middle; margin-right:8px;"> SafeSoul AI – Mental Health Support Chatbot
 
 > ✨ *"Your AI-powered companion for compassionate, anonymous mental wellness support."*
 
